@@ -34,3 +34,7 @@ This script is free to use and modify for personal or educational purposes.
  connect with me
  linkdin = www.linkedin.com/in/riddhi-chavda-2baba6414
  email = riddhichavda59@gmail.com
+
+ video explanation
+
+ https://drive.google.com/file/d/1Sm8wPnYMsR8Kq90hozwEFlGyFDrH1u4B/view?usp=drive_link
